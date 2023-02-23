@@ -1,0 +1,14 @@
+! Title: uBlock Origin google results filter
+! Expires: 1 day
+! Description: drop SEO spam and bad mirrors from google query results
+! Homepage: https://github.com/skipperblue/uBlock-Origin-google-filter
+! License: https://github.com/skipperblue/uBlock-Origin-google-filter/blob/main/LICENSE
+
+||www.exterminate-it.com^$all
+google.*###rso .MjjYud a[href*="www.exterminate-it.com"]:upward(.MjjYud)
+
+||www.exedb.com^$all
+google.*###rso .MjjYud a[href*="www.exedb.com"]:upward(.MjjYud)
+
+||socialgrep.com^$all
+google.*###rso .MjjYud a[href*="socialgrep.com"]:upward(.MjjYud)
