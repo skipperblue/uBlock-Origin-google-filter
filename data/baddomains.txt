@@ -12,3 +12,9 @@ google.*###rso .MjjYud a[href*="www.exedb.com"]:upward(.MjjYud)
 
 ||socialgrep.com^$all
 google.*###rso .MjjYud a[href*="socialgrep.com"]:upward(.MjjYud)
+
+||dowload.cnet.com^$all
+google.*###rso .MjjYud a[href*="dowload.cnet.com"]:upward(.MjjYud)
+
+||softpedia.com^$all
+google.*###rso .MjjYud a[href*="softpedia.com"]:upward(.MjjYud)
