@@ -21,3 +21,24 @@ google.*###rso .MjjYud a[href*="softpedia.com"]:upward(.MjjYud)
 
 ||www.guru99.com^$all
 google.*###rso .MjjYud a[href*="www.guru99.com"]:upward(.MjjYud)
+
+||www.dllme.com^$all
+google.*###rso .MjjYud a[href*="www.dllme.com"]:upward(.MjjYud)
+
+||www.fileinspect.com^$all
+google.*###rso .MjjYud a[href*="www.fileinspect.com"]:upward(.MjjYud)
+
+||www.dll4free.com^$all
+google.*###rso .MjjYud a[href*="www.dll4free.com"]:upward(.MjjYud)
+
+||www.opendll.com^$all
+google.*###rso .MjjYud a[href*="www.opendll.com"]:upward(.MjjYud)
+
+||www.dll-hub.com^$all
+google.*###rso .MjjYud a[href*="www.dll-hub.com"]:upward(.MjjYud)
+
+||www.download-dll.com^$all
+google.*###rso .MjjYud a[href*="www.download-dll.com"]:upward(.MjjYud)
+
+||www.pconlife.com^$all
+google.*###rso .MjjYud a[href*="www.pconlife.com"]:upward(.MjjYud)
